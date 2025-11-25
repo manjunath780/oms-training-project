@@ -39,22 +39,6 @@ springbootkickoff/
 │ │ │ └── UserService.java
 │ │ └── SpringbootkickoffApplication.java
 └── pom.xml
-my-project/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/example/project/
-│   │   │       ├── controller/
-│   │   │       ├── service/
-│   │   │       ├── repository/
-│   │   │       └── model/
-│   │   └── resources/
-│   │       ├── application.properties
-│   │       └── static/
-│   └── test/
-├── pom.xml
-├── README.md
-└── .gitignore
 
 ---
 
