@@ -18,29 +18,8 @@ The project demonstrates basic Spring Boot concepts such as controllers, DTOs, s
 
 ## 📁 Project Structure
 
-springbootkickoff/
-├── .idea/
-├── springbootkickoff/
-│ ├── .mvn/
-│ ├── src/
-│ │ └── main/
-│ │ └── java/
-│ │ └── springbootkickoff/
-│ │ ├── controller/
-│ │ │ ├── HelloController.java
-│ │ │ └── UserController.java
-│ │ ├── dto/
-│ │ │ └── UserDto.java
-│ │ ├── repository/
-│ │ │ └── UserRepository.java
-│ │ ├── service/
-│ │ │ ├── impl/
-│ │ │ │ └── UserServiceImpl.java
-│ │ │ └── UserService.java
-│ │ └── SpringbootkickoffApplication.java
-└── pom.xml
+<img width="694" height="959" alt="Screenshot 2025-11-25 213117" src="https://github.com/user-attachments/assets/fe1a734f-4591-4de1-bb58-86c23a744ca9" />
 
----
 
 
 
